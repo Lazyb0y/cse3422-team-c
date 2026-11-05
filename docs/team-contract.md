@@ -8,7 +8,7 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
+| Foysal Ahamed | [@Lazyb0y](https://github.com/Lazyb0y) | Team lead / Scrum master | | |
 | | @ | Backend lead | | |
 | | @ | Frontend lead | | |
 | | @ | Quality and DevOps lead | | |
@@ -57,4 +57,4 @@ Our extra rules: …
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: …
+The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 5th Novemnber, 2026
